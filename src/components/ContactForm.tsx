@@ -50,6 +50,7 @@ export default function ContactForm() {
                   <div className="ml-4">
                     <p className="text-sm font-medium text-slate-500 uppercase tracking-wider">Phone</p>
                     <p className="text-lg font-semibold text-slate-900">(520) 365-9629</p>
+                    <p className="text-lg font-semibold text-slate-900">(520) 730-5393</p>
                   </div>
                 </div>
 
@@ -78,11 +79,11 @@ export default function ContactForm() {
                 <h4 className="text-lg font-bold text-slate-900 mb-4">Business Hours</h4>
                 <div className="flex justify-between text-slate-600 mb-2">
                   <span>Mon - Fri:</span>
-                  <span className="font-medium">8:00 AM - 6:00 PM</span>
+                  <span className="font-medium">7:00 AM - 6:00 PM</span>
                 </div>
                 <div className="flex justify-between text-slate-600 mb-2">
                   <span>Saturday:</span>
-                  <span className="font-medium">9:00 AM - 2:00 PM</span>
+                  <span className="font-medium">8:00 AM - 2:00 PM</span>
                 </div>
                 <div className="flex justify-between text-slate-600">
                   <span>Sunday:</span>
