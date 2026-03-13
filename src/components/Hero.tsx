@@ -27,7 +27,7 @@ export default function Hero() {
             className="inline-flex items-center space-x-2 bg-blue-500/20 text-blue-200 px-4 py-2 rounded-full text-sm font-medium mb-8 border border-blue-400/30 backdrop-blur-sm"
           >
             <span className="flex h-2 w-2 rounded-full bg-blue-400"></span>
-            <span>Serving your local area</span>
+            <span>Serving Southern Arizona</span>
           </motion.div>
           
           <motion.h1 
