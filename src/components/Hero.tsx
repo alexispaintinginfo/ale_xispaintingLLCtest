@@ -78,7 +78,7 @@ export default function Hero() {
           >
             <div className="flex items-center">
               <CheckCircle2 className="h-5 w-5 text-blue-400 mr-2" />
-              <span>Licensed & Insured</span>
+              <span>Licensed, Bonded & Insured</span>
             </div>
             <div className="flex items-center">
               <CheckCircle2 className="h-5 w-5 text-blue-400 mr-2" />
@@ -90,7 +90,7 @@ export default function Hero() {
             </div>
             <div className="flex items-center">
               <CheckCircle2 className="h-5 w-5 text-blue-400 mr-2" />
-              <span>Se habla español</span>
+              <span>Se Habla Español</span>
             </div>
           </motion.div>
         </div>
