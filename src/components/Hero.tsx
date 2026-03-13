@@ -88,6 +88,10 @@ export default function Hero() {
               <CheckCircle2 className="h-5 w-5 text-blue-400 mr-2" />
               <span>Satisfaction Guaranteed</span>
             </div>
+            <div className="flex items-center">
+              <CheckCircle2 className="h-5 w-5 text-blue-400 mr-2" />
+              <span>Se habla español</span>
+            </div>
           </motion.div>
         </div>
       </div>
