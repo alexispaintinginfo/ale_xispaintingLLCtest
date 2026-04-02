@@ -36,7 +36,7 @@ export default function Navbar() {
             className="flex items-center"
           >
             <a href="#" className={`text-2xl font-bold tracking-tight ${isScrolled ? 'text-blue-900' : 'text-white'}`}>
-              Ale-Xis <span className="text-blue-500">Painting</span>
+              Ale-Xis <span className="text-blue-500">Painting LLC</span>
             </a>
           </motion.div>
 
