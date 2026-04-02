@@ -9,7 +9,7 @@ export default function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mb-8">
           <div>
             <a href="#" className="text-2xl font-bold tracking-tight text-white mb-4 block">
-              Ale-Xis <span className="text-blue-500">Painting</span>
+              Ale-Xis <span className="text-blue-500">Painting LLC</span>
             </a>
             <p className="text-sm text-slate-400 max-w-xs">
               Professional painting and remediation services dedicated to transforming and protecting your property.
