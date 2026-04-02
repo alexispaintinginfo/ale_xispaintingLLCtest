@@ -7,13 +7,13 @@ export default function Services() {
       title: 'Interior Painting',
       description: 'Refresh your living spaces with precision painting, meticulous prep work, and premium finishes.',
       icon: <Home className="h-8 w-8 text-blue-600" />,
-      image: 'https://images.unsplash.com/photo-1562663474-6cbb3eaa4d14?q=80&w=800&auto=format&fit=crop',
+      image: 'https://images.squarespace-cdn.com/content/v1/56fec9d340261d80fee6251d/1631032163451-7OP87J40F0PSIRSRULC3/Interior+paint+Arlington%2C+Virginia+%28VA%29+beautify+and+protect+your+home+with+high-quality+house+paint?format=2500w',
     },
     {
       title: 'Exterior Painting',
       description: 'Protect and beautify your home\'s exterior against the elements with durable, weather-resistant coatings.',
       icon: <Paintbrush className="h-8 w-8 text-blue-600" />,
-      image: 'https://images.unsplash.com/photo-1512917774080-9991f1c4c750?q=80&w=800&auto=format&fit=crop',
+      image: 'https://robeystucco.com/wp-content/uploads/2016/11/stucco-house.png',
     },
     {
       title: 'Remediation Services',
